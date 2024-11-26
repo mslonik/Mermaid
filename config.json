@@ -1,0 +1,54 @@
+{
+    "theme": "dark",
+        "xyChart": {
+          "width": 800,
+          "height": 800,
+          "titlePadding": 10,
+          "titleFontSize": 16,
+          "showTitle": true,
+          "chartOrientation": "vertical",
+          "plotReservedSpacePercent": 50,
+          "xAxis": {
+              "showLabel": false,
+              "labelFontSize": 10,
+              "labelPadding": 5,
+              "showTitle": true,
+              "titleFontSize": 16,
+              "titlePadding": 10,
+              "showTick": false,
+              "tickLength": 10,
+              "tickWidth": 2,
+              "showAxisLine": true,
+              "axisLineWidth": 4
+          },
+          "yAxis": {
+              "showLabel": false,
+              "labelFontSize": 10,
+              "labelPadding": 5,
+              "showTitle": true,
+              "titleFontSize": 16,
+              "titlePadding": 10,
+              "showTick": false,
+              "tickLength": 10,
+              "tickWidth": 2,
+              "showAxisLine": true,
+              "axisLineWidth": 4
+          }
+      },
+  
+    "themeVariables": {
+      "xyChart": {
+          "backgroundColor": "white",
+          "titleColor": "blue",
+          "xAxisLabelColor": "white",
+          "xAxisTitleColor": "blue",
+          "xAxisTickColor": "white",
+          "xAxisLineColor": "white",
+          "yAxisLabelColor": "white",
+          "yAxisTitleColor": "blue",
+          "yAxisTickColor": "white",
+          "yAxisLineColor": "white",
+          "plotColorPalette": "green"
+          }
+      }
+  }  
